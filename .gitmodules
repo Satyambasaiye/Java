@@ -1,3 +1,6 @@
 [submodule "Customer_MS"]
 	path = Customer_MS
 	url = https://github.com/Satyambasaiye/Java-Assignments.git
+[submodule "Surprice Test"]
+	path = Surprice Test
+	url = ./Surprice Test
